@@ -31,9 +31,9 @@
       "description": "Proper Communication, Transparent Communications, Better Community Engagement & Understanding",
       "gradient": "from-pink-400 to-red-600",
       "icon": "ri-brain-line",
-      "level": 1,
-      "xp": 925,
-      "maxXp": 1000,
+      "level": 2,
+      "xp": 12,
+      "maxXp": 2000,
       "theme": "watermelon"
     },
     {
@@ -42,7 +42,7 @@
       "gradient": "from-blue-400 to-purple-600",
       "icon": "https://github.com/WatermelonFrogy/watermelonfrogy.github.io/blob/main/images/icons/godot.png?raw=true",
       "level": 2,
-      "xp": 250,
+      "xp": 612,
       "maxXp": 2000,
       "theme": "watermelon"
     },
@@ -52,7 +52,7 @@
       "gradient": "from-green-400 to-teal-600",
       "icon": "https://github.com/WatermelonFrogy/watermelonfrogy.github.io/blob/main/images/icons/anvil.png?raw=true",
       "level": 3,
-      "xp": 320,
+      "xp": 1456,
       "maxXp": 3000,
       "theme": "watermelon"
     }
