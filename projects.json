@@ -27,7 +27,7 @@
     "title": "MendVR",
     "featured": false,
     "image": "https://github.com/WatermelonFrogy/watermelonfrogy.github.io/blob/main/images/projects/MendVR.png?raw=true",
-    "description": "A chaotic PC and VR cross-play survival game built in Godot. Survive together, or don’t! the world won’t wait for you to figure it out.",
+    "description": "\"MendVR\" is a chaotic multiplayer survival game built using the Godot Engine, designed from the ground up to support seamless PC and VR cross-play. Players are dropped into a procedurally generated, unforgiving world where teamwork is essential, but trust is optional. The emphasis is on fast-paced, emergent gameplay with modular crafting and building systems. Survive the relentless environment and each other. The world is dynamic and unforgiving, and it won't wait for your team to agree on a plan.",
     "tags": ["Godot Engine", "GDScript", "Multiplayer", "VR Development", "Game Design"],
     "features": [
       "Supports Standalone VR, PCVR, and PC crossplay",
@@ -44,7 +44,7 @@
     "title": "Tower of Bagel",
     "featured": false,
     "image": "https://img.itch.zone/aW1nLzE3NDI2MjQzLnBuZw==/347x500/ipUOnF.png",
-    "description": "A **Tower-Defense-Meets-Roguelike** strategy game developed for the **GMTK Game Jam 2024** in Godot. The theme was \"Built to Scale.\" This was my first published game and a crucial learning experience in rapid prototyping. The core gameplay revolves around building and managing the multi-layered **Tower of Bagel**, requiring the player to carefully plan resource allocation for each layer's purpose while defending against external threats at night. Due to initial scope struggles, nearly **90% of the code was written in the final three days** before the deadline, resulting in an unpolished but interesting project.",
+    "description": "A \"Tower-Defense-Meets-Roguelike\" strategy game developed for the GMTK Game Jam 2024 in Godot. The theme was \"Built to Scale.\" This was my first published game and a crucial learning experience in rapid prototyping. The core gameplay revolves around building and managing the multi-layered \"Tower of Bagel\", requiring the player to carefully plan resource allocation for each layer's purpose while defending against external threats at night. Due to initial scope struggles, nearly 90% of the code was written in the final three days before the deadline, resulting in an unpolished but interesting project.",
     "tags": ["Godot Engine", "GDScript", "Game Jam", "Team Collaboration"],
     "features": [
       "Designed for the GMTK Game Jam theme \"Built to Scale\" through layered tower construction",
