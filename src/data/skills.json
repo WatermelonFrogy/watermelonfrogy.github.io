@@ -1,0 +1,60 @@
+{
+  "skills": [
+    {
+      "name": "JavaScript",
+      "icon": "https://github.com/WatermelonFrogy/watermelonfrogy.github.io/blob/main/images/icons/javascript.png?raw=true",
+      "gradient": "from-blue-400 to-blue-600",
+      "border": "watermelon-100"
+    },
+    {
+      "name": "GDScript",
+      "icon": "https://github.com/WatermelonFrogy/watermelonfrogy.github.io/blob/main/images/icons/godot.png?raw=true",
+      "gradient": "from-orange-400 to-orange-600",
+      "border": "watermelon-100"
+    },
+    {
+      "name": "C#",
+      "icon": "https://github.com/WatermelonFrogy/watermelonfrogy.github.io/blob/main/images/icons/c-sharp.png?raw=true",
+      "gradient": "from-red-900 to-red-800",
+      "border": "watermelon-100"
+    },
+    {
+      "name": "Python",
+      "icon": "https://github.com/WatermelonFrogy/watermelonfrogy.github.io/blob/main/images/icons/python.png?raw=true",
+      "gradient": "from-red-400 to-red-600",
+      "border": "mint-100"
+    }
+  ],
+  "learning": [
+    {
+      "title": "Basic Community Management",
+      "description": "Proper Communication, Transparent Communications, Better Community Engagement & Understanding",
+      "gradient": "from-pink-400 to-red-600",
+      "icon": "ri-brain-line",
+      "level": 2,
+      "xp": 12,
+      "maxXp": 2000,
+      "theme": "watermelon"
+    },
+    {
+      "title": "Advanced Godot Game Development",
+      "description": "Modular and Expandable Game Components, Better File Management, and Custom Engine Edits",
+      "gradient": "from-blue-400 to-purple-600",
+      "icon": "https://github.com/WatermelonFrogy/watermelonfrogy.github.io/blob/main/images/icons/godot.png?raw=true",
+      "level": 2,
+      "xp": 612,
+      "maxXp": 2000,
+      "theme": "watermelon"
+    },
+    {
+      "title": "Intermediate Blacksmithing",
+      "description": "Forge Welding, Complex Shapes, Tool Treatment, and Functional Tools",
+      "gradient": "from-green-400 to-teal-600",
+      "icon": "https://github.com/WatermelonFrogy/watermelonfrogy.github.io/blob/main/images/icons/anvil.png?raw=true",
+      "level": 3,
+      "xp": 1456,
+      "maxXp": 3000,
+      "theme": "watermelon"
+    }
+  ]
+}

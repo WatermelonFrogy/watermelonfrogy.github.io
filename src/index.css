@@ -1,0 +1,39 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  @apply font-inter bg-gradient-to-br from-watermelon-50 to-mint-50 min-h-screen;
+}
+
+.sidebar-gradient {
+  background: linear-gradient(135deg, #F8BBD9 0%, #B8E6B8 100%);
+}
+
+.watermelon-gradient {
+  background: linear-gradient(135deg, #F8BBD9 0%, #EC4899 100%);
+}
+
+.mint-gradient {
+  background: linear-gradient(135deg, #B8E6B8 0%, #22C55E 100%);
+}
+
+.progress-bar {
+  background: linear-gradient(90deg, #F8BBD9 0%, #EC4899 100%);
+}
+
+@layer base {
+  h1, h2, h3, h4, h5, h6 {
+    @apply font-inter;
+  }
+}
+
+@media (max-width: 768px) {
+  .page-content {
+    padding: 1.5rem !important;
+  }
+
+  h1.text-5xl {
+    font-size: 2rem;
+  }
+}

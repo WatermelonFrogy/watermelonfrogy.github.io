@@ -1,0 +1,60 @@
+[
+  {
+    "title": "Age of Seraphs",
+    "featured": true,
+    "image": "https://github.com/WatermelonFrogy/watermelonfrogy.github.io/blob/main/images/projects/ageofseraphs.png?raw=true",
+    "description": "A rich, medium-fantasy civilization-building Vintage Story server where players guide seraphs to explore, settle, and shape the world. Featuring deep political intrigue, city planning, and community-driven storytelling, the server blends semi-realism with fun progression mechanics.",
+    "tags": [
+      "Vintage Story",
+      "Community Management & Engagement",
+      "C#",
+      "Creative Direction",
+      "Team Collaboration",
+      "Server Hosting"
+    ],
+    "features": [
+      "Guide friends and players to build and expand civilizations",
+      "Engage in political intrigue and diplomacy",
+      "Plan and design cities with strategic layouts",
+      "Participate in community-driven storytelling"
+    ],
+    "timeline": "December 2024 - Current",
+    "role": "Founder, Owner",
+    "link": "https://discord.gg/ageofseraphs",
+    "source": null
+  },
+  {
+    "title": "MendVR",
+    "featured": false,
+    "image": "https://github.com/WatermelonFrogy/watermelonfrogy.github.io/blob/main/images/projects/MendVR.png?raw=true",
+    "description": "\"MendVR\" is a chaotic multiplayer survival game built using the Godot Engine, designed from the ground up to support seamless PC and VR cross-play. Players are dropped into a procedurally generated, unforgiving world where teamwork is essential, but trust is optional. The emphasis is on fast-paced, emergent gameplay with modular crafting and building systems. Survive the relentless environment and each other. The world is dynamic and unforgiving, and it won't wait for your team to agree on a plan.",
+    "tags": ["Godot Engine", "GDScript", "Multiplayer", "VR Development", "Game Design"],
+    "features": [
+      "Supports Standalone VR, PCVR, and PC crossplay",
+      "Modular building and crafting system",
+      "Procedural world generation",
+      "Co-op and competitive survival mechanics"
+    ],
+    "timeline": "September 2025 - In Development",
+    "role": "Sole Developer",
+    "link": "#contact",
+    "source": null
+  },
+  {
+    "title": "Tower of Bagel",
+    "featured": false,
+    "image": "https://img.itch.zone/aW1nLzE3NDI2MjQzLnBuZw==/347x500/ipUOnF.png",
+    "description": "A \"Tower-Defense-Meets-Roguelike\" strategy game developed for the GMTK Game Jam 2024 in Godot. The theme was \"Built to Scale.\" This was my first published game and a crucial learning experience in rapid prototyping. The core gameplay revolves around building and managing the multi-layered \"Tower of Bagel\", requiring the player to carefully plan resource allocation for each layer's purpose while defending against external threats at night. Due to initial scope struggles, nearly 90% of the code was written in the final three days before the deadline, resulting in an unpolished but interesting project.",
+    "tags": ["Godot Engine", "GDScript", "Game Jam", "Team Collaboration"],
+    "features": [
+      "Designed for the GMTK Game Jam theme \"Built to Scale\" through layered tower construction",
+      "Slow-paced strategy focusing on layered tower management",
+      "Careful resource allocation and planning",
+      "Defense against nightly external threats"
+    ],
+    "timeline": "August 2024 (GMTK Game Jam)",
+    "role": "Programmer (Core Logic, Tower Building, Resource Management)",
+    "link": "https://mishamol.itch.io/tower-of-bagel",
+    "source": null
+  }
+]
