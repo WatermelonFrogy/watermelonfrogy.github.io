@@ -3,58 +3,74 @@
     {
       "name": "JavaScript",
       "icon": "https://github.com/WatermelonFrogy/watermelonfrogy.github.io/blob/main/images/icons/javascript.png?raw=true",
-      "gradient": "from-blue-400 to-blue-600",
-      "border": "watermelon-100"
+      "iconGradientFrom": "#F7DF1E",
+      "iconGradientTo": "#E5C800",
+      "border": "#F472B6"
     },
     {
       "name": "GDScript",
       "icon": "https://github.com/WatermelonFrogy/watermelonfrogy.github.io/blob/main/images/icons/godot.png?raw=true",
-      "gradient": "from-orange-400 to-orange-600",
-      "border": "watermelon-100"
+      "iconGradientFrom": "#4788FF",
+      "iconGradientTo": "#4F46E5",
+      "border": "#F472B6"
     },
     {
       "name": "C#",
       "icon": "https://github.com/WatermelonFrogy/watermelonfrogy.github.io/blob/main/images/icons/c-sharp.png?raw=true",
-      "gradient": "from-red-900 to-red-800",
-      "border": "watermelon-100"
+      "iconGradientFrom": "#239BD8",
+      "iconGradientTo": "#1D4ED8",
+      "border": "#F472B6"
     },
     {
       "name": "Python",
       "icon": "https://github.com/WatermelonFrogy/watermelonfrogy.github.io/blob/main/images/icons/python.png?raw=true",
-      "gradient": "from-red-400 to-red-600",
-      "border": "mint-100"
+      "iconGradientFrom": "#306998",
+      "iconGradientTo": "#FFE873",
+      "border": "#F472B6"
     }
   ],
   "learning": [
     {
       "title": "Basic Community Management",
-      "description": "Proper Communication, Transparent Communications, Better Community Engagement & Understanding",
-      "gradient": "from-pink-400 to-red-600",
+      "description": "Proper communication & engagement",
+      "iconGradientFrom": "#F472B6",
+      "iconGradientTo": "#BE185D",
+      "progressGradientFrom": "#EC4899",
+      "progressGradientTo": "#9F1239",
       "icon": "ri-brain-line",
       "level": 2,
       "xp": 12,
       "maxXp": 2000,
-      "theme": "watermelon"
+      "theme": "watermelon",
+      "border": "#F472B6"
     },
     {
       "title": "Advanced Godot Game Development",
-      "description": "Modular and Expandable Game Components, Better File Management, and Custom Engine Edits",
-      "gradient": "from-blue-400 to-purple-600",
+      "description": "Modular systems, file management",
+      "iconGradientFrom": "#3B82F6",
+      "iconGradientTo": "#7C3AED",
+      "progressGradientFrom": "#1E40AF",
+      "progressGradientTo": "#6D28D9",
       "icon": "https://github.com/WatermelonFrogy/watermelonfrogy.github.io/blob/main/images/icons/godot.png?raw=true",
       "level": 2,
       "xp": 612,
       "maxXp": 2000,
-      "theme": "watermelon"
+      "theme": "watermelon",
+      "border": "#F472B6"
     },
     {
       "title": "Intermediate Blacksmithing",
-      "description": "Forge Welding, Complex Shapes, Tool Treatment, and Functional Tools",
-      "gradient": "from-green-400 to-teal-600",
+      "description": "Forge welding and tooling",
+      "iconGradientFrom": "#10B981",
+      "iconGradientTo": "#059669",
+      "progressGradientFrom": "#059669",
+      "progressGradientTo": "#065F46",
       "icon": "https://github.com/WatermelonFrogy/watermelonfrogy.github.io/blob/main/images/icons/anvil.png?raw=true",
       "level": 3,
       "xp": 1456,
       "maxXp": 3000,
-      "theme": "watermelon"
+      "theme": "watermelon",
+      "border": "#F472B6"
     }
   ]
 }
