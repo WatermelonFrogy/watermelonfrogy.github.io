@@ -24,18 +24,20 @@
     "source": null
   },
   {
-    "title": "MendVR",
+    "title": "Respawn",
     "featured": false,
-    "image": "https://github.com/WatermelonFrogy/watermelonfrogy.github.io/blob/main/images/projects/MendVR.png?raw=true",
-    "description": "\"MendVR\" is a chaotic multiplayer survival game built using the Godot Engine, designed from the ground up to support seamless PC and VR cross-play. Players are dropped into a procedurally generated, unforgiving world where teamwork is essential, but trust is optional. The emphasis is on fast-paced, emergent gameplay with modular crafting and building systems. Survive the relentless environment and each other. The world is dynamic and unforgiving, and it won't wait for your team to agree on a plan.",
+    "image": "https://github.com/WatermelonFrogy/watermelonfrogy.github.io/blob/main/images/projects/Respawn.png?raw=true",
+    "description": "\"Respawn\" is a spiritual successor to A Township Tale built in Godot with the goal of having open-source modding tools while being created out of genuine love for the original game and the community it inspired. The goal isn’t to imitate its flaws, but to recapture the feeling it gave, collaborative exploration, tactile crafting, and the warmth of a living world shared with friends. Respawn focuses on satisfying physics interactions, expressive VR hand presence, and an inviting co-op world where players build, craft, explore, and grow together. It aims to preserve what made A Township Tale magical while forging its own identity along the way.",
     "tags": ["Godot Engine", "GDScript", "Multiplayer", "VR Development", "Game Design"],
     "features": [
-      "Supports Standalone VR, PCVR, and PC crossplay",
-      "Modular building and crafting system",
-      "Procedural world generation",
-      "Co-op and competitive survival mechanics"
+      "Standalone VR, PCVR, and traditional PC crossplay",
+      "High-fidelity physics-based hand and item interactions",
+      "Immersive crafting, gathering, and smithing systems",
+      "Explorable shared hub-world inspired by early ATT servers",
+      "Dedicated multiplayer with persistent player progress",
+      "Warm, community-focused world design built around cooperation"
     ],
-    "timeline": "September 2025 - In Development",
+    "timeline": "December 2025 – In Development",
     "role": "Sole Developer",
     "link": "#contact",
     "source": null
@@ -56,5 +58,5 @@
     "role": "Programmer (Core Logic, Tower Building, Resource Management)",
     "link": "https://mishamol.itch.io/tower-of-bagel",
     "source": null
-  }
+  } 
 ]
