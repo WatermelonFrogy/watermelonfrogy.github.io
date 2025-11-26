@@ -2,7 +2,7 @@
   {
     "title": "Age of Seraphs",
     "featured": true,
-    "image": "https://github.com/WatermelonFrogy/watermelonfrogy.github.io/blob/main/images/projects/ageofseraphs.png?raw=true",
+    "image": "https://github.com/WatermelonFrogy/watermelonfrogy.github.io/blob/gh-pages/images/projects/ageofseraphs.png?raw=true",
     "description": "A rich, medium-fantasy civilization-building Vintage Story server where players guide seraphs to explore, settle, and shape the world. Featuring deep political intrigue, city planning, and community-driven storytelling, the server blends semi-realism with fun progression mechanics.",
     "tags": [
       "Vintage Story",
@@ -26,7 +26,7 @@
   {
     "title": "Respawn",
     "featured": false,
-    "image": "https://github.com/WatermelonFrogy/watermelonfrogy.github.io/blob/main/images/projects/Respawn.png?raw=true",
+    "image": "https://github.com/WatermelonFrogy/watermelonfrogy.github.io/blob/gh-pages/images/projects/Respawn.png?raw=true",
     "description": "\"Respawn\" is a spiritual successor to A Township Tale built in Godot with the goal of having open-source modding tools while being created out of genuine love for the original game and the community it inspired. The goal isn’t to imitate its flaws, but to recapture the feeling it gave, collaborative exploration, tactile crafting, and the warmth of a living world shared with friends. Respawn focuses on satisfying physics interactions, expressive VR hand presence, and an inviting co-op world where players build, craft, explore, and grow together. It aims to preserve what made A Township Tale magical while forging its own identity along the way.",
     "tags": ["Godot Engine", "GDScript", "Multiplayer", "VR Development", "Game Design"],
     "features": [
