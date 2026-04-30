@@ -31,20 +31,6 @@
   ],
   "learning": [
     {
-      "title": "Basic Community Management",
-      "description": "Proper communication & engagement",
-      "iconGradientFrom": "#F472B6",
-      "iconGradientTo": "#BE185D",
-      "progressGradientFrom": "#EC4899",
-      "progressGradientTo": "#9F1239",
-      "icon": "ri-brain-line",
-      "level": 2,
-      "xp": 12,
-      "maxXp": 2000,
-      "theme": "watermelon",
-      "border": "#F472B6"
-    },
-    {
       "title": "Advanced Godot Game Development",
       "description": "Modular systems, file management",
       "iconGradientFrom": "#3B82F6",
@@ -60,15 +46,15 @@
     },
     {
       "title": "Intermediate Blacksmithing",
-      "description": "Forge welding and tooling",
+      "description": "Forge Welding",
       "iconGradientFrom": "#10B981",
       "iconGradientTo": "#059669",
       "progressGradientFrom": "#059669",
       "progressGradientTo": "#065F46",
       "icon": "https://github.com/WatermelonFrogy/watermelonfrogy.github.io/blob/main/images/icons/anvil.png?raw=true",
-      "level": 3,
-      "xp": 1456,
-      "maxXp": 3000,
+      "level": 8,
+      "xp": 5456,
+      "maxXp": 8000,
       "theme": "watermelon",
       "border": "#F472B6"
     }
